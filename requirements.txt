@@ -1,8 +1,8 @@
+Flask[async]
 requests
-psutil
-pyjwt
-protobuf
-protobuf-decoder
-cfonts
-rich
+aiohttp
+googleapis-common-protos
 pycryptodome
+protobuf
+Werkzeug
+httpx
